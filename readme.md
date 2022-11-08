@@ -1,5 +1,5 @@
 layout: page
 title: "Home"
-permalink: /
+permalink: /readme
 
 # This is the home page
